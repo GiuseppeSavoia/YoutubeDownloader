@@ -6,4 +6,4 @@ pip install pytube
 
 ## Example of usage 
 python3 YTDownloader.py https://youtu.be/snAhsXyO3Ck
-**Watch that YouTube video, it's interesting**
+- **Watch that YouTube video, it's interesting**
